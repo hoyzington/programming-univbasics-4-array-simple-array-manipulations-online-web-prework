@@ -34,23 +34,23 @@ def using_concat(array1, array2)
   @my_favorite_things.concat(more_favs)
 end
 
-def using_insert
+def using_insert(array, element)
   @list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
   .insert(3, "Python")
 end
 
-def using_uniq
+def using_uniq()
   
 end
 
-def using_flatten
+def using_flatten()
   
 end
 
-def using_delete
+def using_delete()
   
 end
 
-def using_delete_at
+def using_delete_at()
   
 end
