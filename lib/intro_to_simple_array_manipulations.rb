@@ -50,8 +50,7 @@ def using_flatten(array)
 end
 
 def using_delete(array, string)
-  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-  instructors.delete("Steven")
+  .delete("Steven")
 end
 
 def using_delete_at(array, index)
