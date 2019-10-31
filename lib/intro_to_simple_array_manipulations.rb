@@ -28,23 +28,26 @@ def shift_with_args(array)
   @ice_cream_brands.shift(2)
 end
 
-def using_
+def using_concat
   
 end
 
-def using_
+def using_insert
   
 end
 
-def using_
+def using_uniq
   
 end
 
-def using_
+def using_flatten
   
 end
 
-def using_
+def using_delete
   
 end
 
+def using_delete_at
+  
+end
