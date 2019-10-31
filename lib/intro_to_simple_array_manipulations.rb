@@ -40,7 +40,8 @@ def using_insert(array, element)
 end
 
 def using_uniq(array)
-  
+  haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+  haircuts.uniq
 end
 
 def using_flatten(array)
